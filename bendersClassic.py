@@ -15,10 +15,10 @@ import numpy as np
 from gurobipy import *
 import time
 
+#to check 
 
 
-
-
+#this is for an update
 
 def generateFacilityLocationData(C, F):
     # Unbounded ray instance seed 159
